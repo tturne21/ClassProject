@@ -1,1 +1,1 @@
-Class Project resources and Group Work
+Class Project Resources and Group Work
