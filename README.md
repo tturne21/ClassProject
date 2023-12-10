@@ -116,6 +116,7 @@ Please review our full analysis in our [Code Folder](./Code/) as well as our [pr
 │   ├── Ratio_Totals.csv
 │   └── Ratios_and_Populations.xlsx
 ├── Data
+├── Images
 ├── README.md
 └── Savvy Coders Class Project December 2023.pptx
 
