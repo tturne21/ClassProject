@@ -1,5 +1,5 @@
 # EV Market Analysis in the U.S.
-Authors: Daniel L., Drew P., Jason M., Joshua J., Matthew C., Tatiana S., Tiana T.
+Authors: Tiana T., Daniel L., Drew P., Jason M., Joshua J., Matthew C., Tatiana S.
 
 Please review our full analysis in our [Code Folder](./Code/) as well as our [presentation slides](./Savvy%20Coders%20Class%20Project%20December%202023.pptx).
 
