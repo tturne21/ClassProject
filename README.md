@@ -62,19 +62,29 @@ These tools and methods were strategically employed to cleanse, merge, and analy
 ## Analysis and Findings
 ### EV Sales Trends
 - US EV Sales: Show an increasing trend.
+
+![graph1](./Images/Screenshot%202023-12-10%20140913.png)
 - Global EV Sales: Increasing at a higher rate compared to the US.
+
+![graph2](./Images/Screenshot%202023-12-10%20141008.png)
 - China's Position: Leads in EV sales globally, with the USA following as the second-largest market.
+
+![graph3](./Images/Screenshot%202023-12-10%20141128.png)
 ### State-Level Analysis
 - California: Boasts the highest number of EVs per vehicle registered in the US.
 - New Jersey: Reports the fewest charging stations per EV.
 - California: Stands out as having both the highest number of EVs per vehicle registered and being among the fewest in charging stations per EV, making it a top recommendation for investment.
 - North Dakota: Shows the third-lowest number of EVs per vehicle registered and the highest number of charging stations per EV, indicating it's advisable to avoid investment.
+
+![graph4](./Images/Screenshot%202023-12-10%20141853.png) ![graph5](./Images/Screenshot%202023-12-10%20141916.png)
 ### City-Level Analysis
 - California's Demand: Exhibits the highest demand considering both EVs per vehicle registered and charging stations per EV.
 - San Buenaventura: Reports zero charging stations per capita.
 - Santa Clara: Records the highest number of charging stations per capita.
 - San Buenaventura, CA: Among cities with populations over 100K, reports the fewest EV charging stations per capita.
 - Santa Clara: Leads in the number of charging stations per capita among cities with populations over 100K.
+
+![graph6](./Images/Screenshot%202023-12-10%20141952.png)
 
 These insights provide a comprehensive overview of the varying EV market and charging infrastructure scenarios across different states and cities in the US, guiding investment recommendations and highlighting areas with high demand and potential for improvement..
 
